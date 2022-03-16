@@ -1,12 +1,14 @@
-Nodejs Server
+<h1>Nodejs Server</h1>
 36 group project
 
-Project features
-Node.js: http
-Static file serving
+<h3>Project features</h3>
+<ul>
+  <li>Node.js: http</li>
+  <li>Static file serving</li>
+</ul>
 
-Lecturer
-Rimantas: Github
+<strong>Lecturer</strong><br>
+Rimantas: <a href="https://github.com/belauzas">Github</a>
 
-Author
-Indrė: Github
+<strong>Author</strong><br>
+Indrė: <a href="https://github.com/IndrePet/">Github</a>
